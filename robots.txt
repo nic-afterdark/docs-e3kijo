@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-uyvvyl.deposit1casino.co.nz/sitemap.xml
